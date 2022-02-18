@@ -101,13 +101,12 @@ a.skip{
   /* Requirement 5 code here*/
   grid-template-columns: 1fr 5fr 1fr;
   row-gap: 30px;
-
 }
 
 /* Requirements 6-10 here: */
 .intro {
   background: #DDDDDD;
-  background-image: url("images/header.jpg");
+  background-image: "images/header.jpg";
 
   /* Set a specific height */
   min-height: 400px; 
