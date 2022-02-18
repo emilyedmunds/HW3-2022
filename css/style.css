@@ -75,6 +75,10 @@ nav li{
   text-decoration: none; 
 }
 
+nav a{
+  text-decoration: none; 
+}
+
 /* Requirement 2 code here*/
 nav li:hover {
   text-decoration: wavy underline;
